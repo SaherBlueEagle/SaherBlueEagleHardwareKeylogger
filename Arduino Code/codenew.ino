@@ -1,5 +1,6 @@
  
  
+ // SAHER BLUE EAGLE
 
 #include <EEPROM.h>
 
@@ -232,7 +233,7 @@ case PS2_UPARROW:
        
         } 
   break;
-  case PS2_CAPSLOCK:
+  /*case PS2_CAPSLOCK:// to enable this to detect capslock press , you have to modify it manually in PS/2  Library ;) ;)
        if (i < EEPROM.length()){
       
           EEPROM.update(i, '[');
@@ -253,7 +254,7 @@ case PS2_UPARROW:
           
        
         }
-  break;
+  break;*/
   default:
    
      if (i < EEPROM.length()){
@@ -271,5 +272,5 @@ case PS2_UPARROW:
     
   }  
  
-   
-
+    // SAHER BLUE EAGLE
+ // SAHER BLUE EAGLE
