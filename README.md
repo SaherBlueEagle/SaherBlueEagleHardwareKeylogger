@@ -9,7 +9,7 @@ SaherBlueEagle Easy Hardware Keylogger Using Atmega 328 P , Using Arduino , Low 
 </p>
 
 # 📌 Tools to be used to READ LOGS 
-# 📌 hack a login password from a PC (School / university ) Domain PCs , etc ...
+# 📌 grab a login password from a PC (School / university ) Domain PCs , etc ...
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SaherBlueEagle/SaherBlueEagleHardwareKeylogger/main/hardware%20keylogger%20tools.png" ><br>
